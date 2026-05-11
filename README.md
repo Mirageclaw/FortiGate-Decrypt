@@ -1,4 +1,4 @@
-# FortiGate rootfs decryption tool (by optistream.io)
+# FortiGate rootfs decryption tool (by Mirageclaw)
 
 On recent FortiGate firmwares versions, `rootfs.gz` is checked against a signature then decrypted using ChaCha20.  
 This is implemented inside the kernel (`flatkc`) within function `fgt_verify_decrypt`.
