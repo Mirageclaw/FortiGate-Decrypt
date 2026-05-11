@@ -80,4 +80,4 @@ Writing to rootfs.gz.x64.v7.4.3.decrypted...
 
 # Author
 
-[https://optistream.io](https://optistream.io)
+Mirageclaw
